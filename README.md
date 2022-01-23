@@ -3,3 +3,5 @@ This repository contains all the exercises done in the Machine Learning Essentia
 Week 1 : Simple Linear Regression
 
 Week 2 : Multiple Linear Regression
+
+Week 3 : Data Handling using Numpy and Pandas
