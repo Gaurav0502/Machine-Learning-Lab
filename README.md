@@ -9,3 +9,5 @@ Week 3 : Data Handling using Numpy and Pandas
 Week 4 : K-Nearest Neighbours(KNN)
 
 Week 5 : Decision Trees
+
+Week 6 : Logistic Regression and Perceptron
