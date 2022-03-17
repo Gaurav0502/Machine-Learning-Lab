@@ -15,3 +15,7 @@ Week 6 : Logistic Regression and Perceptron
 Week 7 : Multilayer Perceptron
 
 Week 8 : Support Vector Machines (SVM)
+
+Week 9 : K-means Clustering
+
+Week 10 : Hierarchial Clustering and Gaussian Mixture Models
