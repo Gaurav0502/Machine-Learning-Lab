@@ -19,3 +19,9 @@ Week 8 : Support Vector Machines (SVM)
 Week 9 : K-means Clustering
 
 Week 10 : Hierarchial Clustering and Gaussian Mixture Models
+
+Week 11 : Hyperparameter Tuning using GridSearch and Random Search
+
+Week 12 : K-Fold Cross Validation
+
+Week 13 : Ensemble Learning using Random Forest
